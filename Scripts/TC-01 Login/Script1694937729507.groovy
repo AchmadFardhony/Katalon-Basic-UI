@@ -49,5 +49,3 @@ WebUI.setText(findTestObject('Rumah_Sakit/Page_CURA Healthcare Service/Text_Sara
 
 WebUI.click(findTestObject('Rumah_Sakit/Page_CURA Healthcare Service/button_Book Appointment'))
 
-WebUI.delay(5)
-
